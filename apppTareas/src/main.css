@@ -1,0 +1,6 @@
+body{
+    background-image: url('./font.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen al contenedor */
+    background-repeat: no-repeat; /* Evita que se repita la imagen */
+    background-attachment: fixed; 
+}

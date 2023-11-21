@@ -1,0 +1,36 @@
+.mInput{
+    color: #091f2c;
+    font-size: 1.7vw;
+}
+.list-container{
+    background-color: #f2f2f0;
+}
+.input-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 20px;
+}
+
+.form-floating{
+    width: 50%;
+    display: flex;
+    gap: 5px;
+}
+button {
+  all: unset; /* Elimina todos los estilos, incluyendo los predeterminados del navegador */
+}
+.input-label{
+    font-size: 1.1vw;
+}
+.input-icon{
+    color: #f2f2f0;
+    font-size: 30px;
+    cursor: pointer;
+}
+.input-icon:hover{
+    color: #e31833;
+    font-size: 30px;
+    cursor: pointer;
+}
